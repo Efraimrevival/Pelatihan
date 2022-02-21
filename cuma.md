@@ -1,1 +1,1 @@
-<h1>untuk linknya bisa di akses di</h1><a href="facebook.com">sini</a>
+<h1>untuk linknya bisa di akses di <a href="facebook.com">sini</a>
